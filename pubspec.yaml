@@ -1,6 +1,6 @@
 name: unfocus_widget
 description: Useful widget for unfocusing the TextField when touching outside
-version: 0.0.2
+version: 0.0.3
 homepage: https://tungpt.com
 
 environment:
